@@ -5,3 +5,5 @@ ETH
 ADA 
 
 EGLD 
+
+HUMAN
